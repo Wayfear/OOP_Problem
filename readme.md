@@ -55,4 +55,5 @@ Bark!
 I am a Dog
 ===============
 Meow!
+I am a Cat
 ```
