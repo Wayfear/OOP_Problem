@@ -29,7 +29,7 @@ We are speeding down, now our speed is 70
 
 ## Problem 2
 
-Design a parent class `Animal`, then design two child class `Cat` and `Dog`, each classes has two method `call()` and `whatAmI`
+Design a parent class `Animal`, then design two child class `Cat` and `Dog`, each classes has two method `call()` and `whatAmI()`
 
 ![Animal](image/animal.png)
 
