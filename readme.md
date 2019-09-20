@@ -18,7 +18,7 @@ if __name__ == "__main__":
     vehicle.speedDown()
 ```
 
-The expected output is blow.
+The expected output is shown blow.
 
 ```bash
 Speed currently is 60
@@ -29,7 +29,7 @@ We are speeding down, now our speed is 70
 
 ## Problem 2
 
-Design a parent class `Animal`, then design two child class `Cat` and `Dog`, each classes has two method `call()` and `whatAmI()`
+Design a parent class `Animal`, then design two child classes `Cat` and `Dog`. In each class, you need to implement two methods `call()` and `whatAmI()`
 
 ![Animal](image/animal.png)
 
@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
 ```
 
-The expected output is blow.
+The expected output is shown blow.
 
 ```bash
 Bark!
